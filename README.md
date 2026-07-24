@@ -93,3 +93,20 @@ Examples include:
 - Assessment management
 - Workload management
 - Regular academic progress monitoring
+
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+- Visual Studio Code
+- Git
+- Github
+- Git LFS
+
+## Authors
+- Srijan Mohan
+- Shalett Paulson
